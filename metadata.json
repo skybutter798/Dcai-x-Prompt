@@ -1,0 +1,5 @@
+{
+  "name": "DualBank DeFi",
+  "description": "A high-performance DeFi protocol simulation featuring dual-token staking, credit-tier borrowing, and dynamic interest models.",
+  "requestFramePermissions": []
+}
